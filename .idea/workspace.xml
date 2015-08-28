@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4350f4f-862b-4a2f-ad20-917a70040a9b" name="Default" comment="" />
+    <list default="true" id="f4350f4f-862b-4a2f-ad20-917a70040a9b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="artmob.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +34,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="148" />
-    <option name="y" value="63" />
+    <option name="y" value="350" />
     <option name="width" value="1867" />
     <option name="height" value="1000" />
   </component>
@@ -181,8 +182,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="63" width="1867" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="350" width="1867" height="1000" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
